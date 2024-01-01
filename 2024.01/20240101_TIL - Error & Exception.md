@@ -40,7 +40,6 @@ Java는 모든 것이 객체로 이루어진 언어답게 Error와 Exception도 
 - InstantiationException
 - NoSuchField/MethodException
 - RuntimeException
-    - IOException
     - NullPointerException
     - IndexOutOfBoundException
     - ArithmeticException
